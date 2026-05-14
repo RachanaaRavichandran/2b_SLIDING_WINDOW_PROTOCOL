@@ -88,10 +88,15 @@ ref no: 212225040322
 ```
 ## OUPUT
 client.py
+
 <img width="376" height="320" alt="image" src="https://github.com/user-attachments/assets/1d77295c-1a0e-4b02-bd42-737b2864c638" />
 
+
 server.py
+
+
 <img width="412" height="176" alt="image" src="https://github.com/user-attachments/assets/ccd38fd0-cc24-47a5-9d2a-90d73617f5ea" />
+
 
 
 ## RESULT
